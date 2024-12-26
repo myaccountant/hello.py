@@ -1,6 +1,6 @@
 python
 copy code
-print("hello, GitHub!")
+print("hello, world!")
 
 
 
