@@ -1,8 +1,1 @@
-
-
-print("hello, GitHub!")
-
-
-
-
-
+print("Hello, python!")
